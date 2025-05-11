@@ -54,6 +54,6 @@
     <None Include="fragmentShaderSource.fs">
       <Filter>Source Files\ShaderSourceCode</Filter>
     </None>
-    <None Include="OpenGL 3D Model Renderer.mkv" />
+    <None Include="OpenGL_3D_Model_Renderer.mkv" />
   </ItemGroup>
 </Project>
