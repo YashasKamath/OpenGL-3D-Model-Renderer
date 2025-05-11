@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="fragmentShaderSource.fs" />
+    <None Include="OpenGL 3D Model Renderer.mkv" />
     <None Include="vertexShaderSource.vs" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
